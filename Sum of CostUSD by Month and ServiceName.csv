@@ -1,0 +1,19 @@
+﻿Month,ServiceName,Sum of CostUSD
+Jan,Azure Firewall,1302.671875963
+Feb,Azure Firewall,1218.62149929
+Jan,Application Gateway,1140.2599883599999
+Feb,Application Gateway,1066.35258378
+Jan,Log Analytics,599.4705961
+Feb,Log Analytics,529.6274363
+Jan,Azure Bastion,141.36
+Feb,Azure Bastion,132.24
+Feb,Bandwidth,50.41357600400001
+Jan,Bandwidth,43.367319601
+Jan,Virtual Network,26.508778433
+Feb,Virtual Network,24.789844638
+Jan,Key Vault,3.010017522
+Jan,Azure DNS,0.500479385
+Feb,Azure DNS,0.469033659
+Jan,Storage,0.313314557
+Feb,Storage,0.30869608899999995
+Feb,Key Vault,0.0098954

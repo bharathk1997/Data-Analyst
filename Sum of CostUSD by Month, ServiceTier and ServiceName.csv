@@ -1,0 +1,27 @@
+﻿Month,ServiceTier,Sum of CostUSD,ServiceName
+Jan,,1302.671876,Azure Firewall
+Feb,,1218.621499,Azure Firewall
+Jan,WAF v2,1140.259988,Application Gateway
+Feb,WAF v2,1066.352584,Application Gateway
+Jan,,599.4705961,Log Analytics
+Feb,,529.6274363,Log Analytics
+Jan,,141.36,Azure Bastion
+Feb,,132.24,Azure Bastion
+Feb,,49.45212948,Bandwidth
+Jan,,42.33001528,Bandwidth
+Jan,IP Addresses,26.04356662,Virtual Network
+Feb,IP Addresses,24.3579681,Virtual Network
+Jan,,3.010017522,Key Vault
+Jan,Inter-Region,1.037304321,Bandwidth
+Feb,Inter-Region,0.961446524,Bandwidth
+Jan,,0.500479385,Azure DNS
+Feb,,0.469033659,Azure DNS
+Jan,Peering,0.465211813,Virtual Network
+Feb,Peering,0.431876538,Virtual Network
+Jan,"Files, Tables",0.302963876,Storage
+Feb,Files,0.298065858,Storage
+Feb,Tiered Block Blob,0.010336719,Storage
+Jan,Tiered Block Blob,0.010049912,Storage
+Feb,,0.0098954,Key Vault
+Jan,Tables,0.000300769,Storage
+Feb,Tables,0.000293512,Storage

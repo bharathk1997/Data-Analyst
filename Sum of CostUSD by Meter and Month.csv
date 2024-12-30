@@ -1,0 +1,45 @@
+﻿Meter,Sum of CostUSD,Month
+Premium Deployment,1302,Jan
+Premium Deployment,1218,Feb
+Standard Fixed Cost,1071.36,Jan
+Standard Fixed Cost,1002.24,Feb
+Pay-as-you-go Data Ingestion,599.4705961,Jan
+Pay-as-you-go Data Ingestion,529.6274363,Feb
+Basic Gateway,141.36,Jan
+Basic Gateway,132.24,Feb
+Standard Capacity Units,68.89998836,Jan
+Standard Capacity Units,64.11258378,Feb
+Standard Data Transfer Out,49.45212948,Feb
+Standard Data Transfer Out,42.33001528,Jan
+Standard IPv4 Static Public IP,26.04356662,Jan
+Standard IPv4 Static Public IP,24.3579681,Feb
+Certificate Renewal Request,3,Jan
+Intra Continent Data Transfer Out,1.037304321,Jan
+Intra Continent Data Transfer Out,0.961446524,Feb
+Premium Data Processed,0.671875963,Jan
+Premium Data Processed,0.62149929,Feb
+Private Zone,0.500479385,Jan
+Private Zone,0.469033659,Feb
+Intra-Region Ingress,0.334344106,Jan
+Intra-Region Ingress,0.307441501,Feb
+LRS Data Stored,0.302963876,Jan
+LRS Data Stored,0.298065858,Feb
+Intra-Region Egress,0.130867707,Jan
+Intra-Region Egress,0.124435037,Feb
+Hot LRS Data Stored,0.010037237,Feb
+Operations,0.010017522,Jan
+Operations,0.0098954,Feb
+Hot LRS Data Stored,0.009846356,Jan
+Batch Write Operations,0.000300769,Jan
+Batch Write Operations,0.000293512,Feb
+All Other Operations,0.000203556,Jan
+All Other Operations,0.000199482,Feb
+Hot LRS Write Operations,0.0001,Feb
+Hot LRS Write Operations,0,Jan
+Hot Read Operations,0,Feb
+Hot Read Operations,0,Jan
+Inter Continent Data Transfer Out - NAM or EU To Any,0,Feb
+Inter Continent Data Transfer Out - NAM or EU To Any,0,Jan
+LRS List and Create Container Operations,0,Feb
+Standard Data Transfer In,0,Feb
+Standard Data Transfer In,0,Jan
